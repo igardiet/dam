@@ -1,0 +1,32 @@
+<equipos>
+    <equipo>
+        <nombre>Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion="delantero">
+                <nombre>Robert Lewandowski</nombre>
+                <nacionalidad>Polonia</nacionalidad>
+            </jugador>
+            <jugador posicion="medio">
+                <nombre>Sergi Roberto</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Chelsea</nombre>
+        <ciudad>Londres</ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion="medio">
+                <nombre>Enzo Fernández</nombre>
+                <nacionalidad>Argentina</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>Thiago Silva</nombre>
+                <nacionalidad>Brasil</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
