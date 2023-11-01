@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <equipos>
     <equipo>
-        <nombre>Barcelona</nombre>
+        <nombre>Barcelona F.C</nombre>
         <ciudad>Barcelona</ciudad>
         <entrenador></entrenador>
         <jugadores>
@@ -15,7 +16,7 @@
         </jugadores>
     </equipo>
     <equipo>
-        <nombre>Chelsea</nombre>
+        <nombre>Chelsea F.C</nombre>
         <ciudad>Londres</ciudad>
         <entrenador></entrenador>
         <jugadores>
