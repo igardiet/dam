@@ -1,0 +1,102 @@
+DESARROLLO DE UNA APLICACIÓN
+
+1. Fases del desarrollo de una app
+	El software se desarrolla siguiendo un paradigma o una metodología de desarrollo.
+	Fases de paradigmas:
+
+	1. FASE INICIAL:
+		- Planificación del proyecto.
+		- Estimación de costes (viabilidad del proyecto).
+		- Es la fase más compleja.
+		- Precisa de personas expertas en planificación de proyectos.
+		- Se desarrollan documentos muy importantes para el proyecto (viabilidad, estimación…).
+
+	2. ANÁLISIS:
+		- Establecer requisitos de la aplicación analizando el problema y buscar soluciones en el mercado.
+		- Requisitos funcionales de la app especificando los modelos de datos y comportamiento.
+		- Recopilar, examinar y formular los requisitos del cliente (especificación de requisitos).
+		- Análisis de restricciones, entrevistas con el cliente y los usuarios finales.
+		- Se genera un documento vinculante (a modo de contrato) entre el cliente y el desarrollador muy importantes para el proyecto (viabilidad, estimación…).
+		- Especificar el comportamiento del sistema utilizando diagramas de flujo de datos en análisis estructurado o diagramas de casos de uso, diagramas de secuencia o diagramas de estados en metodologías 		orientadas a objetos.
+		- Especificar el modelo de datos conociendo las estructuras de datos de la aplicación y sus relaciones. Uso de diagramas entidad/relación en bases de datos, diagramas de clases en metodologías 		orientadas a objetos o diccionarios de datos en programación estructurada.
+		- Describir las interfaces de usuario utilizando prototipos mediante representaciones de baja fidelidad o estéticas (wireframes o mocks).
+
+	3. DISEÑO:
+		- Consiste en determinar los requisitos generales de la arquitectura de la aplicación.
+		- Se define cada subconjunto de la aplicación.
+		- Los documentos son más técnicos, teniendo en cuenta el hardware y software, se crea la solución al problema.
+		- Esta fase involucra a los jefes de proyecto, arquitectos de software y analistas.
+		- Los programadores aún no intervienen en esta fase de contrato.
+		- Diseño de las estructuras de datos y persistencia de la app mediante ficheros, bases de datos relacionales, orientadas a objetos o NoQSL.
+		- Diseño del comportamiento mediante técnicas de diseño modular, división descendiente en módulos funcionales, diseño de procedimientos especificando algoritmos de cada módulo mediante diagramas de 		flujo, de estados o pseudocódigo.
+		- Codificación o implementación: Algoritmos diseñados en la fase de diseño se transforman en programas expresados en un lenguaje de programación. Se realizan pruebas asegurando la calidad del 		software.
+		- Implantación: Puesta en profucción del software, su instalación en los sistemas, pruebas, migración de la info y reemplazo del sistema anterior. Proveer documentación a usuario final para correcta 		explotación del sistema.
+		- Mantenimiento: Corrección de errores, mejoras en funcionalidad de la app y funciones añadidas. Mantenimiento correctivo (errores de codificación no detectados), mantenimiento adaptativo (adaptar 		app a nuevos entornos), mantenimiento perfectivo (nuevas funcionalidades a la app).
+
+	4. IMPLEMENTACIÓN:
+		- Consiste en implementar el software usando lenguajes de programación, librerías, frameworks…
+		- Se crea documentación muy detallada en la que se incluye y documenta el código fuente.
+		- Parte del código suele comentarse sobre el propio código fuente generado.
+		- Se detallan las entradas, salidas, parámetros… de cada uno de los módulos del programa.
+		- El detalle es máximo, pensando en el mantenimiento y soporte futuro.
+
+	5. PRUEBAS:
+		- Se realizan pruebas para garantizar que la aplicación se ha programado según las especificaciones.
+		- A modo preliminar, se pueden considerar dos categorías de pruebas:
+			- Pruebas funcionales: se prueba que al aplicación hace lo que tiene que hacer.
+			- Pruebas estructurales: se efectúan pruebas técnicas sobre el sistema (estrés, carga, integración…).
+
+	6. EXPLOTACIÓN:
+		- Se instala el software en el entorno real de uso.
+		- Se trabaja con el software de forma cotidiana (nuevas necesidades, incidencias…).
+		- Se recogen los errores y las correcciones en un nuevo documento de mantenimiento.
+		- Los/as programadores/as y analistas revisan esos fallos para mejorar el software y aprender de los errores.
+
+	7. MANTENIMIENTO:
+		- Se realizan procedimientos correctivos sobre el programa.
+		- Siempre hay que tener delante la documentación técnica de la aplicación.
+		- Las operaciones de mantenimiento se deben documentar para dejar constancia de los cambios.
+
+	8. RETIRADA:
+		- El software ha llegado al final de su vida útil.
+		- No resulta rentable seguir ampliándolo o manteniéndolo.
+		- Llegados a este punto, el ciclo puede comenzar de nuevo:
+			- Comprando un nuevo software.
+			- Desarrollando un nuevo software (a medida).
+
+2. Documentación
+	- En cada fase se generan uno o más documentos.
+	- La documentación es vital para saber cómo usar la aplicación fina.l
+	- Como mínimo, cada aplicación debe tener estos documentos:
+	- Manual de usuario: explica cómo usará el usuario la aplicación.
+	- Manual técnico: documentación dirigida al personal técnico (administradoras/es y programadoras/es).
+	- Manual de instalación: detalla el proceso de instalación de la aplicación.
+
+3. Roles del desarrollo de software
+
+	* Arquitecto/a de software:
+		- Decide cómo se realiza el proyecto y cómo va a estructurarse.
+		- Tiene un amplio conocimiento de las tecnologías, los frameworks y las librerías.
+		- Decide y forma los recursos del desarrollo de un proyecto.
+
+	* Jefe/a de proyecto:
+		- Dirige el curso del proyecto.
+		- Debe saber gestionar un equipo y lidiar con los tiempos.
+		- Trata de manera continua y fluida con la clientela.
+
+	* Analista de sistemas y analista programador:
+		- Esta persona realiza un estudio exhaustivo del problema que va a llevarse a cabo.
+		- Efectúa el análisis y el diseño de todo el sistema.
+		- Este perfil requiere mucha experiencia, y también suele involucrarse en reuniones con el cliente.
+
+	* Programador:
+		- Conoce en profundidad el lenguaje de programación.
+		- Se encarga de codificar las tareas encomendadas por los analistas.
+		- Su misión es la de codificar y probar los diferentes módulos de la aplicación.
+
+4. Paradigmas de desarrollo clásicos
+	- Los paradigmas de desarrollo clásicos son inflexibles.
+	- Cada etapa debe finalizar para pasar a la siguiente.
+	- Qué pasa si detectamos un error grave de diseño durante la implementación?
+	- El paradigma más clásico es el modelo en cascada.
+	- Metodologías ágiles (SCRUM).
