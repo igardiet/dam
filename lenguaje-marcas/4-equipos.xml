@@ -3,7 +3,7 @@
     <equipo>
         <nombre>Barcelona F.C</nombre>
         <ciudad>Barcelona</ciudad>
-        <entrenador></entrenador>
+        <entrenador/>
         <jugadores>
             <jugador posicion="delantero">
                 <nombre>Robert Lewandowski</nombre>
@@ -18,7 +18,7 @@
     <equipo>
         <nombre>Chelsea F.C</nombre>
         <ciudad>Londres</ciudad>
-        <entrenador></entrenador>
+        <entrenador/>
         <jugadores>
             <jugador posicion="medio">
                 <nombre>Enzo Fernández</nombre>
