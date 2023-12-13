@@ -6,28 +6,27 @@ public class EuroConverterEx
     {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Ingrese el importe en euros: ");
+        System.out.println("Enter the amount in euros: ");
+        double amount = scanner.nextDouble();
 
-        double importeEuros = scanner.nextDouble();
+        System.out.println("Select the currency to convert, P for pounds or E for euros: ");
+        char currency = scanner.next().charAt(0);
 
-        System.out.println("Seleccione a que moneda desea convertir. L (libras) o E (Euros): ");
+        double result = 0.0;
 
-        char opcionMoneda = scanner.next().charAt(0);
-
-        double resultado = 0.0;
-
-        if (opcionMoneda == 'L' || opcionMoneda == 'l')
+        if (currency == 'P' || currency == 'p')
         {
-            resultado = importeEuros * 0.85;
-            System.out.println("El importe en libras es: " + resultado);
-        } else if (opcionMoneda == 'E' || opcionMoneda == 'e')
+            result = amount * 0.85;
+            System.out.println("The amount in pounds is: " + result);
+        } else if (currency == 'E' || currency == 'e')
         {
-            resultado = importeEuros;
-            System.out.println("El importe en euros es: " + resultado);
+            result = amount;
+            System.out.println("The amount in euros is: " + result);
         } else
         {
-            System.out.println("Opción no válida. Ingrese L o E");
+            System.out.println("Invalid option, try again");
         }
+
         scanner.close();
     }
 }
