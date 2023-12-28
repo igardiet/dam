@@ -18,5 +18,7 @@ public class EstructurasControl2
         {
             System.out.println(number + " is odd");
         }
+
+        scanner.close();
     }
 }
