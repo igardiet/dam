@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Nombre del canal</title>
+        <link>https://www.ejemplo.com</link>
+        <description>Descripcion del canal</description>
+        <language>es</language>
+        <item>
+            <title>Entrevista con Expertos</title>
+            <link>https://www.ejemplo.com/episodio1</link>
+            <description>Conversacion con lideres en la industria sobre temas interesantes</description>
+            <language>es</language>
+            <pubDate>03 Dec 2023 00:00:00 GMT</pubDate>
+            <duration>00:30:00</duration>
+        </item>
+        <item>
+            <title>Entrevista con Expertos 2</title>
+            <link>https://www.ejemplo.com/episodio2</link>
+            <description>Conversacion con lideres en la industria sobre temas interesantes</description>
+            <language>es</language>
+            <pubDate>03 Dec 2023 00:00:00 GMT</pubDate>
+            <duration>00:30:00</duration>
+        </item>
+    </channel>
+</rss>
