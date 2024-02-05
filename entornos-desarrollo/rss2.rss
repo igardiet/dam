@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Blog de Noticias Deportivas</title>
+        <link>https://www.ejemplo.com/deportes</link>
+        <description>Las últimas noticias deportivas para mantenerte informado.</description>
+
+        <!-- Primera Noticia -->
+        <item>
+            <title>Increíble Victoria en el Torneo de Tenis</title>
+            <link>https://www.ejemplo.com/deportes/noticia1</link>
+            <description>El jugador destacado logra una victoria impresionante en el torneo de
+                tenis, dejando a todos asombrados.</description>
+            <category>Tenis</category>
+            <pubDate>Fri, 17 Dec 2023 08:00:00 GMT</pubDate>
+        </item>
+
+        <!-- Segunda Noticia -->
+        <item>
+            <title>Récord Mundial en Carrera de Atletismo</title>
+            <link>https://www.ejemplo.com/deportes/noticia2</link>
+            <description>Un atleta rompe el récord mundial en una emocionante carrera de atletismo,
+                estableciendo una nueva marca histórica.</description>
+            <category>Atletismo</category>
+            <pubDate>Thu, 16 Dec 2023 10:30:00 GMT</pubDate>
+        </item>
+
+    </channel>
+</rss>
