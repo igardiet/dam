@@ -1,7 +1,10 @@
+// Realizar un programa que muestre las tablas de multiplicar del 1 al 10.
+
+package programs;
+
 import java.util.Scanner;
 
-// Realizar un programa que muestre las tablas de multiplicar del 1 al 10.
-public class Eighteen
+public class MultiTable
 {
     public static void main(String[] args)
     {

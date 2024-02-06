@@ -1,7 +1,10 @@
+// Dadas 6 notas, escribir la cantidad de alumnos aprobados, condicionados (4) y suspensos.
+
+package programs;
+
 import java.util.Scanner;
 
-// Dadas 6 notas, escribir la cantidad de alumnos aprobados, condicionados (4) y suspensos.
-public class Seventeen
+public class StudentsNote
 {
     public static void main(String[] args)
     {

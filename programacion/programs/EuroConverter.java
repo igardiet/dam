@@ -1,6 +1,8 @@
+package programs;
+
 import java.util.Scanner;
 
-public class EuroConverterEx
+public class EuroConverter
 {
     public static void main(String[] args)
     {

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Pedir un número e indicar si es positivo o negativo:
-public class One
+public class PosNegInt
 {
     public static void main(String[] args)
     {

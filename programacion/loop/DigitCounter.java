@@ -2,7 +2,9 @@
 // números del 0-0-0-0-0 al 9-9-9-9-9, con la particularidad que cada vez que
 // aparezca un 3 lo sustituya por una E.
 
-public class Nineteen
+package loop;
+
+public class DigitCounter
 {
     public static void main(String[] args)
     {

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Pedir tres números y mostrarlos ordenados de major a minor.
-public class Four
+public class ThreeNumOrder
 {
     public static void main(String[] args)
     {

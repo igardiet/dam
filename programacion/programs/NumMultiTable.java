@@ -1,8 +1,10 @@
-import java.util.Scanner;
-
 // Pide un número (que debe estar entre 0 y 10) y mostrar la tabla de multiplicar de dicho número.
 
-public class Sixteen
+package programs;
+
+import java.util.Scanner;
+
+public class NumMultiTable
 {
     public static void main(String[] args)
     {

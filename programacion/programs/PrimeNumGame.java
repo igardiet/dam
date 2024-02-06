@@ -1,6 +1,8 @@
+package programs;
+
 import java.util.Scanner;
 
-public class Bucles1
+public class PrimeNumGame
 {
     public static void main(String[] args)
     {

@@ -1,6 +1,8 @@
+package programs;
+
 import java.util.Scanner;
 
-public class Bucles4
+public class DigitsGame
 {
     public static void main(String[] args)
     {

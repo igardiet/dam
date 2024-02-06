@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Conditionals
+public class MathMinMax
 {
     public static void main(String[] args)
     {

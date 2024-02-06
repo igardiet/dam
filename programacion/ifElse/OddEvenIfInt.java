@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EstructurasControl2
+public class OddEvenIfInt
 {
     public static void main(String[] args)
     {

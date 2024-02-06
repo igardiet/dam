@@ -1,4 +1,6 @@
-public class assignmentOperators
+package programs;
+
+public class AssignmentOperators
 {
     public static void main(String[] args)
     {

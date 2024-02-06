@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EstructurasControl1
+public class TwoNumIf
 {
     public static void main(String[] args)
     {

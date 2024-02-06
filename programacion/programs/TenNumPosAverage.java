@@ -1,7 +1,10 @@
+// Pedir 10 números. Mostrar la media de los números positivos, la media de los números negativos y la cantidad de ceros.
+
+package programs;
+
 import java.util.Scanner;
 
-// Pedir 10 números. Mostrar la media de los números positivos, la media de los números negativos y la cantidad de ceros.
-public class Fourteen
+public class TenNumPosAverage
 {
     public static void main(String[] args)
     {

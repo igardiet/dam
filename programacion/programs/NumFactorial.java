@@ -1,7 +1,10 @@
+// Pedir un número y calcular su factorial.
+
+package programs;
+
 import java.util.Scanner;
 
-// Pedir un número y calcular su factorial.
-public class Thirdteen
+public class NumFactorial
 {
     public static void main(String[] args)
     {

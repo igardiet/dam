@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Pedir dos números y decir cual es el mayor o si son iguales.
-public class Three
+public class TwoNumMajMin
 {
     public static void main(String[] args)
     {

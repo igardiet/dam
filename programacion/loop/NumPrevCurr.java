@@ -1,4 +1,6 @@
-public class Bucles2
+package loop;
+
+public class NumPrevCurr
 {
     public static void main(String[] args)
     {

@@ -1,7 +1,10 @@
+// Realizar un programa que nos pida un número n, y nos diga cuantos números hay entre 1 y n que son primos.
+
+package programs;
+
 import java.util.Scanner;
 
-// Realizar un programa que nos pida un número n, y nos diga cuantos números hay entre 1 y n que son primos.
-public class Twenty
+public class OneToNPrime
 {
     public static void main(String[] args)
     {

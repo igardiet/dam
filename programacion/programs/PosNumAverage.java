@@ -1,7 +1,10 @@
+// Pedir números hasta que se introduzca uno negativo, y calcular la media de los números positivos. El 0 se considera número positivo.
+
+package programs;
+
 import java.util.Scanner;
 
-// Pedir números hasta que se introduzca uno negativo, y calcular la media de los números positivos. El 0 se considera número positivo.
-public class Ten
+public class PosNumAverage
 {
     public static void main(String[] args)
     {

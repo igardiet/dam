@@ -1,7 +1,10 @@
+// Pedir números hasta que se teclee un 0, mostrar la suma de todos los números introducidos.
+
+package programs;
+
 import java.util.Scanner;
 
-// Pedir números hasta que se teclee un 0, mostrar la suma de todos los números introducidos.
-public class Nine
+public class NumbersSum
 {
     public static void main(String[] args)
     {
