@@ -15,7 +15,7 @@ public class MonthIfElse
             if (number == 1)
                 System.out.println("January");
             else if (number == 2)
-                System.out.println("Febraury");
+                System.out.println("February");
             else if (number == 3)
                 System.out.println("March");
             else if (number == 4)
