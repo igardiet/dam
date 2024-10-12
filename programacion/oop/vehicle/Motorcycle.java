@@ -16,6 +16,6 @@ public class Motorcycle extends Vehicle
     @Override
     public void displayInfo()
     {
-        System.out.println("Motorcycle: " + getBrand() + " (" + getYear() + ") - Model: " + model);
+        System.out.println("Motorcycle: " + getBrand() + " " + model + " (" + getYear() + ")");
     }
 }
